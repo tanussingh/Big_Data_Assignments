@@ -1,0 +1,10 @@
+JfZY98Jopy8OvYrXqKrF0Q	408 E Upland RdIthaca, NY 14850	['Optometrists', 'Health and Medical']	5.0
+ossi9K7n2HNR_AyLB8rpOQ	649 River StTroy, NY 12180	['Tires', 'Automotive']	5.0
+lxcpALnq2RRWDKBVpztUMA	206A Dryden RdIthaca, NY 14850	['Local Services', 'Shipping Centers', 'Printing Services']	5.0
+8BuQKohXzZGK5Bx1i9in1Q	221 W 107th StManhattan ValleyNew York, NY 10025	['Churches', 'Religious Organizations']	5.0
+PpDSMh6Jx6OlTIZwQXvb6g	115 the commons, in Autumn Leaves' basementIthaca, NY 14850	['Books', 'Mags', 'Music and Video', 'Vinyl Records', 'Shopping']	5.0
+7NiTUyoXawiCHxx_UA9z2A	Bayberry Square637 New Loudon Rd Rt 9Latham, NY 12110	['Massage', 'Beauty and Spas']	5.0
+lBmZEdCnCknECknxMg-2rQ	113 W State StIthaca, NY 14850	['Shopping', 'Home & Garden', 'Antiques', 'Furniture Stores']	5.0
+QmV1z4Knz8kmSv4vrY_8Yg	Cornell UniversityB07, Day HallIthaca, NY 14853	['Arts & Entertainment', 'Nightlife', 'Music Venues']	5.0
+zx1lLUvlRUN5nQlSj3HRDw	282 River StTroy, NY 12180	['Shopping', 'Antiques']	5.0
+XpAATxVkUjGKsg4InY5Kwg	7 Oakwood AveTroy, NY 12180	['Auto Repair', 'Automotive', 'Body Shops']	5.0
