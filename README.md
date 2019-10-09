@@ -1,6 +1,9 @@
 # Big_Data_Assignments
 Usage of Apache Hadoop, Spark and Kafka. 
 
+## Lecture Notes
+Topics include Hadoop, Spark, Recommendation Systems, Kafka, Hadoop, Clustering, Classification, Cassandra Big Tables and more!
+
 ## Assignment 1
 Utilizies hadoop and mapreduce to analyze social network data. 
 Input files that are utilized include soc-LiveJournal1Adj.txt and userdata.txt both of which are included in the folder. Calculations are performed based on various techniques such as In-Memory Join etc.
