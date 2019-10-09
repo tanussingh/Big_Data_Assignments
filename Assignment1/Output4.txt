@@ -1,0 +1,15 @@
+13720,150 Courtright Street,Balta,North Dakota	22
+1474,4692 Vesta Drive,Chicago,Illinois	22
+16610,1971 Washington Avenue,Phoenix,Arizona	22
+16611,381 Gladwell Street,Longview,Texas	22
+16613,3562 Brown Street,Phoenix,Arizona	22
+16617,2112 Metz Lane,Woburn,Massachusetts	22
+16618,3091 James Avenue,Wichita,Kansas	22
+17209,2660 Gore Street,Houston,Texas	22
+17230,736 Aspen Court,Boston,Massachusetts	22
+17244,3927 Chapmans Lane,Albuquerque,New Mexico	22
+17263,3928 Pratt Avenue,Olympia,Washington	22
+18259,3501 Jim Rosa Lane,San Francisco,California	22
+19385,4877 Ocello Street,San Diego,California	22
+19393,461 Pringle Drive,Northbrook,Illinois	22
+19396,1780 Russell Street,Lawrence,Massachusetts	22
